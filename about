@@ -1,0 +1,3 @@
+In this project it takes paragraph of text and keyword as input 
+and gives the count of occurrence of the keyword in the text as output.
+The count of keyword in the text is case insensitive.
